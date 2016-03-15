@@ -1,0 +1,298 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1F1AB089114BD54500A9C015 /* ieee80211_amrr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1F1AB087114BD54500A9C015 /* ieee80211_amrr.cpp */; };
+		1F1AB08A114BD54500A9C015 /* ieee80211_amrr.h in Headers */ = {isa = PBXBuildFile; fileRef = 1F1AB088114BD54500A9C015 /* ieee80211_amrr.h */; };
+		2F712A50104B269F00505C26 /* VoodooIntel3945.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F712A4E104B269F00505C26 /* VoodooIntel3945.h */; };
+		2F712A51104B269F00505C26 /* VoodooIntel3945.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2F712A4F104B269F00505C26 /* VoodooIntel3945.cpp */; };
+		2F712A5D104B358200505C26 /* if_wpireg.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F712A5C104B358200505C26 /* if_wpireg.h */; };
+		2F7E42EB1051C8A100B913DF /* Firmware.h in Headers */ = {isa = PBXBuildFile; fileRef = 2F7E42EA1051C8A100B913DF /* Firmware.h */; };
+		32D94FC80562CBF700B6AF17 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		089C167EFE841241C02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1F1AB087114BD54500A9C015 /* ieee80211_amrr.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ieee80211_amrr.cpp; sourceTree = "<group>"; };
+		1F1AB088114BD54500A9C015 /* ieee80211_amrr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ieee80211_amrr.h; sourceTree = "<group>"; };
+		1F285172114695160098C419 /* VoodooWireless.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VoodooWireless.framework; path = /Users/pvaibhav/Code/VoodooWireless/build/Debug/VoodooWireless.framework; sourceTree = "<absolute>"; };
+		2F712A4E104B269F00505C26 /* VoodooIntel3945.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VoodooIntel3945.h; sourceTree = "<group>"; };
+		2F712A4F104B269F00505C26 /* VoodooIntel3945.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = VoodooIntel3945.cpp; sourceTree = "<group>"; };
+		2F712A59104B352700505C26 /* if_wpi.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = if_wpi.c; path = ../WifiRelated/wpi/if_wpi.c; sourceTree = SOURCE_ROOT; };
+		2F712A5B104B352700505C26 /* if_wpivar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = if_wpivar.h; path = ../WifiRelated/wpi/if_wpivar.h; sourceTree = SOURCE_ROOT; };
+		2F712A5C104B358200505C26 /* if_wpireg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = if_wpireg.h; sourceTree = "<group>"; };
+		2F7E42EA1051C8A100B913DF /* Firmware.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Firmware.h; sourceTree = "<group>"; };
+		2F7E42EE1051C8C100B913DF /* LICENSE.iwlwifi-3945-ucode */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "LICENSE.iwlwifi-3945-ucode"; path = "Firmware/LICENSE.iwlwifi-3945-ucode"; sourceTree = "<group>"; };
+		32D94FCF0562CBF700B6AF17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32D94FD00562CBF700B6AF17 /* VoodooIntel3945.kext */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VoodooIntel3945.kext; sourceTree = BUILT_PRODUCTS_DIR; };
+		8DA8362C06AD9B9200E5AC22 /* Kernel.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Kernel.framework; path = /System/Library/Frameworks/Kernel.framework; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		32D94FCB0562CBF700B6AF17 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		089C166AFE841209C02AAC07 /* VoodooIntel3945 */ = {
+			isa = PBXGroup;
+			children = (
+				2F712A59104B352700505C26 /* if_wpi.c */,
+				2F712A5B104B352700505C26 /* if_wpivar.h */,
+				2F7E42EE1051C8C100B913DF /* LICENSE.iwlwifi-3945-ucode */,
+				247142CAFF3F8F9811CA285C /* Source */,
+				8DA8362C06AD9B9200E5AC22 /* Kernel.framework */,
+				089C167CFE841241C02AAC07 /* Resources */,
+				19C28FB6FE9D52B211CA2CBB /* Products */,
+				1F285172114695160098C419 /* VoodooWireless.framework */,
+			);
+			name = VoodooIntel3945;
+			sourceTree = "<group>";
+		};
+		089C167CFE841241C02AAC07 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				32D94FCF0562CBF700B6AF17 /* Info.plist */,
+				089C167DFE841241C02AAC07 /* InfoPlist.strings */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		19C28FB6FE9D52B211CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				32D94FD00562CBF700B6AF17 /* VoodooIntel3945.kext */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		247142CAFF3F8F9811CA285C /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				1F1AB087114BD54500A9C015 /* ieee80211_amrr.cpp */,
+				1F1AB088114BD54500A9C015 /* ieee80211_amrr.h */,
+				2F7E42EA1051C8A100B913DF /* Firmware.h */,
+				2F712A5C104B358200505C26 /* if_wpireg.h */,
+				2F712A4E104B269F00505C26 /* VoodooIntel3945.h */,
+				2F712A4F104B269F00505C26 /* VoodooIntel3945.cpp */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		32D94FC50562CBF700B6AF17 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F712A50104B269F00505C26 /* VoodooIntel3945.h in Headers */,
+				2F712A5D104B358200505C26 /* if_wpireg.h in Headers */,
+				2F7E42EB1051C8A100B913DF /* Firmware.h in Headers */,
+				1F1AB08A114BD54500A9C015 /* ieee80211_amrr.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		32D94FC30562CBF700B6AF17 /* VoodooIntel3945 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB91D908733DB10010E9CD /* Build configuration list for PBXNativeTarget "VoodooIntel3945" */;
+			buildPhases = (
+				32D94FC50562CBF700B6AF17 /* Headers */,
+				32D94FC70562CBF700B6AF17 /* Resources */,
+				32D94FC90562CBF700B6AF17 /* Sources */,
+				32D94FCB0562CBF700B6AF17 /* Frameworks */,
+				32D94FCC0562CBF700B6AF17 /* Rez */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = VoodooIntel3945;
+			productInstallPath = "$(SYSTEM_LIBRARY_DIR)/Extensions";
+			productName = VoodooIntel3945;
+			productReference = 32D94FD00562CBF700B6AF17 /* VoodooIntel3945.kext */;
+			productType = "com.apple.product-type.kernel-extension.iokit";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		089C1669FE841209C02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB91DD08733DB10010E9CD /* Build configuration list for PBXProject "VoodooIntel3945" */;
+			compatibilityVersion = "Xcode 3.1";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 089C166AFE841209C02AAC07 /* VoodooIntel3945 */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				32D94FC30562CBF700B6AF17 /* VoodooIntel3945 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		32D94FC70562CBF700B6AF17 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				32D94FC80562CBF700B6AF17 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXRezBuildPhase section */
+		32D94FCC0562CBF700B6AF17 /* Rez */ = {
+			isa = PBXRezBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXRezBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		32D94FC90562CBF700B6AF17 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2F712A51104B269F00505C26 /* VoodooIntel3945.cpp in Sources */,
+				1F1AB089114BD54500A9C015 /* ieee80211_amrr.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C167DFE841241C02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C167EFE841241C02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB91DA08733DB10010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 0.4;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../VoodooWireless/build/Release\"",
+					"\"$(SRCROOT)/../VoodooWireless/build/Debug\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				INFOPLIST_FILE = Info.plist;
+				INFOPLIST_PREPROCESS = YES;
+				INSTALL_PATH = "$(SYSTEM_LIBRARY_DIR)/Extensions";
+				MODULE_NAME = org.voodoo.wireless.hal.Intel3945;
+				MODULE_VERSION = 0.4;
+				PRODUCT_NAME = VoodooIntel3945;
+				WRAPPER_EXTENSION = kext;
+			};
+			name = Debug;
+		};
+		1DEB91DB08733DB10010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(NATIVE_ARCH_ACTUAL)";
+				CURRENT_PROJECT_VERSION = 0.5;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../VoodooWireless/build/Release\"",
+					"\"$(SRCROOT)/../VoodooWireless/build/Debug\"",
+				);
+				GCC_MODEL_TUNING = G5;
+				INFOPLIST_FILE = Info.plist;
+				INFOPLIST_PREPROCESS = YES;
+				INSTALL_PATH = "$(SYSTEM_LIBRARY_DIR)/Extensions";
+				MODULE_NAME = org.voodoo.wireless.hal.Intel3945;
+				MODULE_VERSION = 0.5;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = VoodooIntel3945;
+				SDKROOT = macosx10.6;
+				WRAPPER_EXTENSION = kext;
+			};
+			name = Release;
+		};
+		1DEB91DE08733DB10010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Debug;
+		};
+		1DEB91DF08733DB10010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_VERSION = "";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = macosx10.5;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB91D908733DB10010E9CD /* Build configuration list for PBXNativeTarget "VoodooIntel3945" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91DA08733DB10010E9CD /* Debug */,
+				1DEB91DB08733DB10010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB91DD08733DB10010E9CD /* Build configuration list for PBXProject "VoodooIntel3945" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB91DE08733DB10010E9CD /* Debug */,
+				1DEB91DF08733DB10010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 089C1669FE841209C02AAC07 /* Project object */;
+}

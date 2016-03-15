@@ -1,0 +1,583 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeSDKPreference = macosx10.6;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* VoodooIntel3945 */;
+		addToTargets = (
+		);
+		codeSenseManager = 1F284D50114693230098C419 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					699,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					659,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310536431;
+			PBXWorkspaceStateSaveDate = 310536431;
+		};
+		perUserProjectItems = {
+			1F05CDC3116C8C7900C8005E /* PBXTextBookmark */ = 1F05CDC3116C8C7900C8005E /* PBXTextBookmark */;
+			1F05CDC4116C8C7900C8005E /* PBXTextBookmark */ = 1F05CDC4116C8C7900C8005E /* PBXTextBookmark */;
+			1F05CDC6116C8C7900C8005E /* PBXTextBookmark */ = 1F05CDC6116C8C7900C8005E /* PBXTextBookmark */;
+			1F0F50D2114BE6D8003FAB04 /* PBXTextBookmark */ = 1F0F50D2114BE6D8003FAB04 /* PBXTextBookmark */;
+			1F1375BB114803FC000F613B /* PBXTextBookmark */ = 1F1375BB114803FC000F613B /* PBXTextBookmark */;
+			1F1AB097114BD89500A9C015 /* PBXTextBookmark */ = 1F1AB097114BD89500A9C015 /* PBXTextBookmark */;
+			1F1AB0F5114BDE6B00A9C015 /* PBXTextBookmark */ = 1F1AB0F5114BDE6B00A9C015 /* PBXTextBookmark */;
+			1F1AB0F7114BDE6B00A9C015 /* PBXTextBookmark */ = 1F1AB0F7114BDE6B00A9C015 /* PBXTextBookmark */;
+			1F1AB0FC114BDE6B00A9C015 /* PBXTextBookmark */ = 1F1AB0FC114BDE6B00A9C015 /* PBXTextBookmark */;
+			1F285199114697200098C419 /* PBXTextBookmark */ = 1F285199114697200098C419 /* PBXTextBookmark */;
+			1FC329B212826AD90056236D /* PBXTextBookmark */ = 1FC329B212826AD90056236D /* PBXTextBookmark */;
+			1FC329B312826AD90056236D /* PBXTextBookmark */ = 1FC329B312826AD90056236D /* PBXTextBookmark */;
+			1FC329B412826AD90056236D /* PBXTextBookmark */ = 1FC329B412826AD90056236D /* PBXTextBookmark */;
+			1FD853BA114823400032CE0E /* PBXTextBookmark */ = 1FD853BA114823400032CE0E /* PBXTextBookmark */;
+			1FDBBAAF114F0EDC00709AC6 /* PBXTextBookmark */ = 1FDBBAAF114F0EDC00709AC6 /* PBXTextBookmark */;
+			1FDBBAB0114F0EDC00709AC6 /* PBXTextBookmark */ = 1FDBBAB0114F0EDC00709AC6 /* PBXTextBookmark */;
+			1FDDC2D0116CB1D3007D0889 /* PlistBookmark */ = 1FDDC2D0116CB1D3007D0889 /* PlistBookmark */;
+			1FDE69EF116CCBC6007E7053 /* PBXTextBookmark */ = 1FDE69EF116CCBC6007E7053 /* PBXTextBookmark */;
+			1FE096FA116CBCF100957D7C /* PBXTextBookmark */ = 1FE096FA116CBCF100957D7C /* PBXTextBookmark */;
+			1FEA1E8D116D84C400DFCACC /* PBXTextBookmark */ = 1FEA1E8D116D84C400DFCACC /* PBXTextBookmark */;
+			1FF50320114844FB00769AFE /* PBXTextBookmark */ = 1FF50320114844FB00769AFE /* PBXTextBookmark */;
+			1FF50322114844FB00769AFE /* PBXTextBookmark */ = 1FF50322114844FB00769AFE /* PBXTextBookmark */;
+			1FF50324114844FB00769AFE /* PBXTextBookmark */ = 1FF50324114844FB00769AFE /* PBXTextBookmark */;
+			1FF50326114844FB00769AFE /* PBXTextBookmark */ = 1FF50326114844FB00769AFE /* PBXTextBookmark */;
+			1FF7133A11482B9600B1B988 /* PBXTextBookmark */ = 1FF7133A11482B9600B1B988 /* PBXTextBookmark */;
+			1FF7134E11482CE200B1B988 /* PBXTextBookmark */ = 1FF7134E11482CE200B1B988 /* PBXTextBookmark */;
+			1FFC28D2116CB983001B14A5 /* PBXTextBookmark */ = 1FFC28D2116CB983001B14A5 /* PBXTextBookmark */;
+			1FFC28D3116CB983001B14A5 /* PBXTextBookmark */ = 1FFC28D3116CB983001B14A5 /* PBXTextBookmark */;
+			1FFC28D6116CB983001B14A5 /* PBXTextBookmark */ = 1FFC28D6116CB983001B14A5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 1F284D4F114693230098C419 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	1F05CDC3116C8C7900C8005E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F7E42EE1051C8C100B913DF /* LICENSE.iwlwifi-3945-ucode */;
+		name = "LICENSE.iwlwifi-3945-ucode: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2114;
+		vrLoc = 0;
+	};
+	1F05CDC4116C8C7900C8005E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F7E42EA1051C8A100B913DF /* Firmware.h */;
+		name = "Firmware.h: 8";
+		rLen = 0;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 2460;
+		vrLoc = 0;
+	};
+	1F05CDC6116C8C7900C8005E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F712A4E104B269F00505C26 /* VoodooIntel3945.h */;
+		name = "VoodooIntel3945.h: 110";
+		rLen = 72;
+		rLoc = 3523;
+		rType = 0;
+		vrLen = 2147;
+		vrLoc = 2640;
+	};
+	1F0F50D2114BE6D8003FAB04 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F1AB088114BD54500A9C015 /* ieee80211_amrr.h */;
+		name = "ieee80211_amrr.h: 46";
+		rLen = 0;
+		rLoc = 1678;
+		rType = 0;
+		vrLen = 1109;
+		vrLoc = 1001;
+	};
+	1F1375BB114803FC000F613B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F1375BC114803FC000F613B /* IOOutputQueue.h */;
+		name = "IOOutputQueue.h: 80";
+		rLen = 79;
+		rLoc = 2740;
+		rType = 0;
+		vrLen = 1793;
+		vrLoc = 1980;
+	};
+	1F1375BC114803FC000F613B /* IOOutputQueue.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOOutputQueue.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/network/IOOutputQueue.h;
+		sourceTree = "<absolute>";
+	};
+	1F1AB087114BD54500A9C015 /* ieee80211_amrr.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {877, 1316}}";
+			sepNavSelRange = "{2000, 0}";
+			sepNavVisRange = "{945, 1099}";
+		};
+	};
+	1F1AB088114BD54500A9C015 /* ieee80211_amrr.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {881, 975}}";
+			sepNavSelRange = "{1678, 0}";
+			sepNavVisRange = "{1001, 1109}";
+		};
+	};
+	1F1AB097114BD89500A9C015 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F1AB098114BD89500A9C015 /* VoodooWirelessDevice_Types.h */;
+		name = "VoodooWirelessDevice_Types.h: 48";
+		rLen = 7;
+		rLoc = 1623;
+		rType = 0;
+		vrLen = 1875;
+		vrLoc = 250;
+	};
+	1F1AB098114BD89500A9C015 /* VoodooWirelessDevice_Types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VoodooWirelessDevice_Types.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Versions/A/Headers/VoodooWirelessDevice_Types.h;
+		sourceTree = "<absolute>";
+	};
+	1F1AB0F5114BDE6B00A9C015 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F1AB0F6114BDE6B00A9C015 /* VoodooWirelessFamily.h */;
+		name = "VoodooWirelessFamily.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 0;
+	};
+	1F1AB0F6114BDE6B00A9C015 /* VoodooWirelessFamily.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VoodooWirelessFamily.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Debug/VoodooWireless.framework/Headers/VoodooWirelessFamily.h;
+		sourceTree = "<absolute>";
+	};
+	1F1AB0F7114BDE6B00A9C015 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F284D5C114693630098C419 /* VoodooWirelessDevice.h */;
+		name = "VoodooWirelessDevice.h: 28";
+		rLen = 0;
+		rLoc = 623;
+		rType = 0;
+		vrLen = 1214;
+		vrLoc = 0;
+	};
+	1F1AB0FC114BDE6B00A9C015 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F1AB0FD114BDE6B00A9C015 /* types.h */;
+		name = "types.h: 86";
+		rLen = 29;
+		rLoc = 3957;
+		rType = 0;
+		vrLen = 1070;
+		vrLoc = 3377;
+	};
+	1F1AB0FD114BDE6B00A9C015 /* types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = types.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/sys/types.h;
+		sourceTree = "<absolute>";
+	};
+	1F284D4F114693230098C419 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	1F284D50114693230098C419 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1F284D5C114693630098C419 /* VoodooWirelessDevice.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VoodooWirelessDevice.h;
+		path = /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug/VoodooWireless.framework/Headers/VoodooWirelessDevice.h;
+		sourceTree = "<absolute>";
+	};
+	1F285196114697200098C419 /* VoodooIEEE80211.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VoodooIEEE80211.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Debug/VoodooWireless.framework/Headers/VoodooIEEE80211.h;
+		sourceTree = "<absolute>";
+	};
+	1F285198114697200098C419 /* VoodooIEEE80211_Types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VoodooIEEE80211_Types.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Debug/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h;
+		sourceTree = "<absolute>";
+	};
+	1F285199114697200098C419 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F28519A114697200098C419 /* VoodooWirelessDevice_Types.h */;
+		name = "VoodooWirelessDevice_Types.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1021;
+		vrLoc = 0;
+	};
+	1F28519A114697200098C419 /* VoodooWirelessDevice_Types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VoodooWirelessDevice_Types.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Debug/VoodooWireless.framework/Headers/VoodooWirelessDevice_Types.h;
+		sourceTree = "<absolute>";
+	};
+	1F2FA1BB1148007C00D2E54C /* VoodooIEEE80211_Types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VoodooIEEE80211_Types.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Versions/A/Headers/VoodooIEEE80211_Types.h;
+		sourceTree = "<absolute>";
+	};
+	1FC329B212826AD90056236D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F712A4F104B269F00505C26 /* VoodooIntel3945.cpp */;
+		name = "VoodooIntel3945.cpp: 14";
+		rLen = 0;
+		rLoc = 259;
+		rType = 0;
+		vrLen = 1789;
+		vrLoc = 0;
+	};
+	1FC329B312826AD90056236D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F712A59104B352700505C26 /* if_wpi.c */;
+		name = "if_wpi.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2229;
+		vrLoc = 0;
+	};
+	1FC329B412826AD90056236D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F712A59104B352700505C26 /* if_wpi.c */;
+		name = "if_wpi.c: 273";
+		rLen = 0;
+		rLoc = 10989;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 10768;
+	};
+	1FD853BA114823400032CE0E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FD853BB114823400032CE0E /* ieee80211_node.h */;
+		name = "ieee80211_node.h: 164";
+		rLen = 0;
+		rLoc = 7861;
+		rType = 0;
+		vrLen = 1772;
+		vrLoc = 6694;
+	};
+	1FD853BB114823400032CE0E /* ieee80211_node.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ieee80211_node.h;
+		path = /Users/pvaibhav/Code/WifiRelated/net80211/ieee80211_node.h;
+		sourceTree = "<absolute>";
+	};
+	1FDBBAAF114F0EDC00709AC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F285196114697200098C419 /* VoodooIEEE80211.h */;
+		name = "VoodooIEEE80211.h: 17";
+		rLen = 34;
+		rLoc = 350;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 0;
+	};
+	1FDBBAB0114F0EDC00709AC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F285198114697200098C419 /* VoodooIEEE80211_Types.h */;
+		name = "VoodooIEEE80211_Types.h: 90";
+		rLen = 0;
+		rLoc = 2407;
+		rType = 0;
+		vrLen = 1110;
+		vrLoc = 4590;
+	};
+	1FDDC2D0116CB1D3007D0889 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 32D94FCF0562CBF700B6AF17 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/pvaibhav/Code/VoodooIntel3945/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	1FDDC2D3116CB1D3007D0889 /* VoodooWirelessFamily.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = VoodooWirelessFamily.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Versions/A/Headers/VoodooWirelessFamily.h;
+		sourceTree = "<absolute>";
+	};
+	1FDE69EF116CCBC6007E7053 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F2FA1BB1148007C00D2E54C /* VoodooIEEE80211_Types.h */;
+		name = "VoodooIEEE80211_Types.h: 187";
+		rLen = 0;
+		rLoc = 5566;
+		rType = 0;
+		vrLen = 1255;
+		vrLoc = 4994;
+	};
+	1FE096FA116CBCF100957D7C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F1AB087114BD54500A9C015 /* ieee80211_amrr.cpp */;
+		name = "ieee80211_amrr.cpp: 64";
+		rLen = 0;
+		rLoc = 2000;
+		rType = 0;
+		vrLen = 1099;
+		vrLoc = 945;
+	};
+	1FEA1E8D116D84C400DFCACC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F712A5C104B358200505C26 /* if_wpireg.h */;
+		name = "if_wpireg.h: 398";
+		rLen = 30;
+		rLoc = 10352;
+		rType = 0;
+		vrLen = 1170;
+		vrLoc = 9867;
+	};
+	1FF50320114844FB00769AFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FF50321114844FB00769AFE /* kpi_mbuf.h */;
+		name = "kpi_mbuf.h: 960";
+		rLen = 7;
+		rLoc = 38693;
+		rType = 0;
+		vrLen = 1631;
+		vrLoc = 37836;
+	};
+	1FF50321114844FB00769AFE /* kpi_mbuf.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = kpi_mbuf.h;
+		path = /System/Library/Frameworks/Kernel.framework/Headers/sys/kpi_mbuf.h;
+		sourceTree = "<absolute>";
+	};
+	1FF50322114844FB00769AFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FF50323114844FB00769AFE /* kernel_types.h */;
+		name = "kernel_types.h: 48";
+		rLen = 0;
+		rLoc = 814;
+		rType = 0;
+		vrLen = 1005;
+		vrLoc = 622;
+	};
+	1FF50323114844FB00769AFE /* kernel_types.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = kernel_types.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/sys/kernel_types.h;
+		sourceTree = "<absolute>";
+	};
+	1FF50324114844FB00769AFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FF50325114844FB00769AFE /* apple80211_ioctl.h */;
+		name = "apple80211_ioctl.h: 23";
+		rLen = 0;
+		rLoc = 962;
+		rType = 0;
+		vrLen = 1249;
+		vrLoc = 442;
+	};
+	1FF50325114844FB00769AFE /* apple80211_ioctl.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = apple80211_ioctl.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Debug/VoodooWireless.framework/Headers/apple80211_ioctl.h;
+		sourceTree = "<absolute>";
+	};
+	1FF50326114844FB00769AFE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FF50327114844FB00769AFE /* apple80211_var.h */;
+		name = "apple80211_var.h: 425";
+		rLen = 0;
+		rLoc = 15698;
+		rType = 0;
+		vrLen = 1453;
+		vrLoc = 14819;
+	};
+	1FF50327114844FB00769AFE /* apple80211_var.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = apple80211_var.h;
+		path = /Users/pvaibhav/Code/VoodooWireless/build/Debug/VoodooWireless.framework/Headers/apple80211_var.h;
+		sourceTree = "<absolute>";
+	};
+	1FF7133A11482B9600B1B988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FF7133B11482B9600B1B988 /* OSMetaClass.h */;
+		name = "OSMetaClass.h: 442";
+		rLen = 61;
+		rLoc = 13945;
+		rType = 0;
+		vrLen = 1585;
+		vrLoc = 13052;
+	};
+	1FF7133B11482B9600B1B988 /* OSMetaClass.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = OSMetaClass.h;
+		path = "/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/libkern/c++/OSMetaClass.h";
+		sourceTree = "<absolute>";
+	};
+	1FF7134E11482CE200B1B988 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FF7134F11482CE200B1B988 /* IOTimerEventSource.h */;
+		name = "IOTimerEventSource.h: 110";
+		rLen = 73;
+		rLoc = 4869;
+		rType = 0;
+		vrLen = 2180;
+		vrLoc = 3757;
+	};
+	1FF7134F11482CE200B1B988 /* IOTimerEventSource.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOTimerEventSource.h;
+		path = /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/IOTimerEventSource.h;
+		sourceTree = "<absolute>";
+	};
+	1FFC28D2116CB983001B14A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1FDDC2D3116CB1D3007D0889 /* VoodooWirelessFamily.h */;
+		name = "VoodooWirelessFamily.h: 7";
+		rLen = 0;
+		rLoc = 157;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 0;
+	};
+	1FFC28D3116CB983001B14A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2F712A5B104B352700505C26 /* if_wpivar.h */;
+		name = "if_wpivar.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1712;
+		vrLoc = 0;
+	};
+	1FFC28D6116CB983001B14A5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "if_wpi.c: 1732";
+		rLen = 0;
+		rLoc = 46761;
+		rType = 0;
+		vrLen = 1440;
+		vrLoc = 46217;
+	};
+	2F712A4E104B269F00505C26 /* VoodooIntel3945.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {877, 2814}}";
+			sepNavSelRange = "{3523, 72}";
+			sepNavVisRange = "{2640, 2147}";
+		};
+	};
+	2F712A4F104B269F00505C26 /* VoodooIntel3945.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 36630}}";
+			sepNavSelRange = "{259, 0}";
+			sepNavVisRange = "{0, 1789}";
+		};
+	};
+	2F712A59104B352700505C26 /* if_wpi.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {877, 54255}}";
+			sepNavSelRange = "{10989, 0}";
+			sepNavVisRange = "{10768, 950}";
+		};
+	};
+	2F712A5B104B352700505C26 /* if_wpivar.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {877, 2968}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1712}";
+		};
+	};
+	2F712A5C104B358200505C26 /* if_wpireg.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {877, 10738}}";
+			sepNavSelRange = "{10352, 30}";
+			sepNavVisRange = "{9867, 1170}";
+			sepNavWindowFrame = "{{68, 0}, {642, 778}}";
+		};
+	};
+	2F7E42EA1051C8A100B913DF /* Firmware.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {877, 175784}}";
+			sepNavSelRange = "{219, 0}";
+			sepNavVisRange = "{0, 2460}";
+		};
+	};
+	2F7E42EE1051C8C100B913DF /* LICENSE.iwlwifi-3945-ucode */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {877, 661}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2114}";
+		};
+	};
+	32D94FC30562CBF700B6AF17 /* VoodooIntel3945 */ = {
+		activeExec = 0;
+	};
+}

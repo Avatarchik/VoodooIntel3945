@@ -1,0 +1,904 @@
+TVoodooIntel3945
+v7
+r0
+t292342415.859078
+cCheck dependencies
+cPreprocess /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist Info.plist
+cProcessInfoPlistFile /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Info.plist /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist
+cCopyStringsFile /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.o /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945 normal i386
+cGenerateDSYMFile /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext.dSYM /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+cTouch /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOBufferMemoryDescriptor.h
+c000000004A73D6500000000000003246
+t1249105488
+s12870
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOCommandPool.h
+c000000004A73D6510000000000001FC2
+t1249105489
+s8130
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOInterruptEventSource.h
+c000000004A73D6520000000000002A74
+t1249105490
+s10868
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOLib.h
+c000000004A73D6520000000000004DDF
+t1249105490
+s19935
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOMessage.h
+c000000004A73D6530000000000000DE0
+t1249105491
+s3552
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOService.h
+c000000004A73D653000000000001F49D
+t1249105491
+s128157
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOTimerEventSource.h
+c000000004A73D6540000000000002B1D
+t1249105492
+s11037
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/IOWorkLoop.h
+c000000004A73D6540000000000003980
+t1249105492
+s14720
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/network/IOEthernetController.h
+c000000004A73D9400000000000005A38
+t1249106240
+s23096
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/network/IOEthernetInterface.h
+c000000004A73D940000000000000380F
+t1249106240
+s14351
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/network/IOGatedOutputQueue.h
+c000000004A73D94000000000000015D4
+t1249106240
+s5588
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/network/IOMbufMemoryCursor.h
+c000000004A73D9400000000000003EF2
+t1249106240
+s16114
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/network/IOOutputQueue.h
+c000000004A73D9400000000000002569
+t1249106240
+s9577
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/pci/IOPCIDevice.h
+c000000004A73D8C70000000000008708
+t1249106119
+s34568
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/libkern/c++/OSData.h
+c000000004A73D67000000000000058BF
+t1249105520
+s22719
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/libkern/c++/OSOrderedSet.h
+c000000004A73D6710000000000006595
+t1249105521
+s26005
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/libkern/c++/OSString.h
+c000000004A73D671000000000000345F
+t1249105521
+s13407
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/libkern/c++/OSSymbol.h
+c000000004A73D6710000000000003050
+t1249105521
+s12368
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/libkern/version.h
+c000000004A73D64C0000000000000BA5
+t1249105484
+s2981
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/net/bpf.h
+c000000004A73D650000000000000492E
+t1249105488
+s18734
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/net/ethernet.h
+c000000004A73D6510000000000000CF4
+t1249105489
+s3316
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/net/if.h
+c000000004A73D65100000000000030B0
+t1249105489
+s12464
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/net/if_media.h
+c000000004A73D65100000000000039D4
+t1249105489
+s14804
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/net/if_var.h
+c000000004A73D65100000000000024DB
+t1249105489
+s9435
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/netinet/if_ether.h
+c000000004A73D65200000000000016B4
+t1249105490
+s5812
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/netinet/in.h
+c000000004A73D6530000000000005325
+t1249105491
+s21285
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/cdefs.h
+c000000004A73D65B0000000000004E25
+t1249105499
+s20005
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/kernel.h
+c000000004A73D65C0000000000000E87
+t1249105500
+s3719
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/kernel_types.h
+c000000004A73D65C000000000000092F
+t1249105500
+s2351
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/kpi_mbuf.h
+c000000004A73D65E000000000000CED9
+t1249105502
+s52953
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/param.h
+c000000004A73D65C0000000000002850
+t1249105500
+s10320
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/queue.h
+c000000004A73D65D0000000000005D70
+t1249105501
+s23920
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/socket.h
+c000000004A73D65D0000000000005D93
+t1249105501
+s23955
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/sysctl.h
+c000000004A73D65D0000000000008DA2
+t1249105501
+s36258
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers/sys/types.h
+c000000004A73D65D0000000000002905
+t1249105501
+s10501
+
+N/Users/pvaibhav/Code/VoodooIntel3945/English.lproj/InfoPlist.strings
+c000000004A9AE778000000000000005C
+t1251665784
+s92
+
+N/Users/pvaibhav/Code/VoodooIntel3945/Firmware.h
+c000000004AA1916E00000000000E2860
+t1252102510
+s927840
+
+N/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp
+c000000004BBC92F80000000000010D81
+t1270649592
+s68993
+i"VoodooIntel3945.h"
+i"if_wpireg.h"
+i"Firmware.h"
+i<sys/sysctl.h>
+
+N/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h
+c000000004B9BA5FC0000000000001B77
+t1268491772
+s7031
+i<sys/types.h>
+i<sys/kernel_types.h>
+i<IOKit/IOLib.h>
+i<IOKit/IOBufferMemoryDescriptor.h>
+i<IOKit/IOInterruptEventSource.h>
+i<IOKit/IOTimerEventSource.h>
+i<IOKit/IOWorkLoop.h>
+i<IOKit/network/IOMbufMemoryCursor.h>
+i<IOKit/pci/IOPCIDevice.h>
+i<VoodooWireless/VoodooWirelessDevice.h>
+i"if_wpireg.h"
+i"ieee80211_amrr.h"
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext
+t1270649615
+s102
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext.dSYM
+t1270649615
+s102
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Info.plist
+t1270649612
+s3756
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+t1270649615
+s235112
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Resources/English.lproj/InfoPlist.strings
+t1270649612
+s92
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c
+c000000004BBC930C00000000000001A7
+t1270649612
+s423
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945
+t1268408801
+s233328
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.LinkFileList
+c000000004BBC930C0000000000000109
+t1270649612
+s265
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.o
+t1270649615
+s513736
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o
+t1270649613
+s3796
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o
+t1270649612
+s4696
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945
+t1268408802
+s255124
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945.LinkFileList
+c000000004B9A61DD0000000000000084
+t1268408797
+s132
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945.o
+t1268408802
+s535564
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945_info.o
+t1268408801
+s3796
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/x86_64/VoodooIntel3945
+t2
+s0
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/x86_64/VoodooIntel3945.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/x86_64/VoodooIntel3945.o
+t2
+s0
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/x86_64/VoodooIntel3945_info.o
+t2
+s0
+
+N/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist
+t1270649612
+s3809
+
+N/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c
+c000000004B9BA1320000000000000B07
+t1268490546
+s2823
+i<sys/param.h>
+i"ieee80211_amrr.h"
+
+N/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp
+c000000004B9BAF020000000000000B1C
+t1268494082
+s2844
+i<sys/param.h>
+i"ieee80211_amrr.h"
+
+N/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h
+c000000004B9BA5B9000000000000083E
+t1268491705
+s2110
+i<VoodooWireless/VoodooIEEE80211_Types.h>
+
+N/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h
+c000000004B97CB5F0000000000004DBB
+t1268239199
+s19899
+i<VoodooWireless/VoodooIEEE80211_Types.h>
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/IO80211Controller.h
+c000000004B9A6341000000000000320F
+t1268409153
+s12815
+i<libkern/version.h>
+i<IOKit/network/IOEthernetController.h>
+i<sys/param.h>
+i<net/bpf.h>
+i"apple80211_ioctl.h"
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/IO80211Interface.h
+c000000004B9A634100000000000037F5
+t1268409153
+s14325
+i<libkern/version.h>
+i<IOKit/network/IOEthernetInterface.h>
+i<net/if_var.h>
+i<sys/queue.h>
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/IO80211WorkLoop.h
+c000000004B9A63410000000000000215
+t1268409153
+s533
+i<IOKit/IOWorkLoop.h>
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h
+c000000004B9A6341000000000000030D
+t1268409153
+s781
+i<IOKit/IOService.h>
+i<libkern/c++/OSData.h>
+i<libkern/c++/OSOrderedSet.h>
+i"VoodooWirelessFamily.h"
+i"VoodooIEEE80211_Types.h"
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h
+c000000004B9A63410000000000001F8E
+t1268409153
+s8078
+i"VoodooWirelessFamily.h"
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessCipher.h
+c000000004B9A63410000000000000E1E
+t1268409153
+s3614
+i<IOKit/IOService.h>
+i<sys/kpi_mbuf.h>
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h
+c000000004B9A63410000000000001B64
+t1268409153
+s7012
+i<sys/types.h>
+i<sys/kpi_mbuf.h>
+i<IOKit/IOService.h>
+i<IOKit/IOMessage.h>
+i<IOKit/IOWorkLoop.h>
+i<IOKit/IOCommandPool.h>
+i"IO80211Controller.h"
+i"IO80211Interface.h"
+i"IO80211WorkLoop.h"
+i<IOKit/network/IOOutputQueue.h>
+i<IOKit/network/IOGatedOutputQueue.h>
+i"VoodooWirelessFamily.h"
+i"VoodooIEEE80211.h"
+i"VoodooWirelessDevice_Types.h"
+i"VoodooWirelessCipher.h"
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice_Types.h
+c000000004B9A63410000000000001D5D
+t1268409153
+s7517
+i<libkern/c++/OSSymbol.h>
+i<libkern/c++/OSString.h>
+i"VoodooWirelessFamily.h"
+i"VoodooIEEE80211.h"
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h
+c000000004B9A634100000000000003F2
+t1268409153
+s1010
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/apple80211_ioctl.h
+c000000004B9A63410000000000003644
+t1268409153
+s13892
+i<sys/socket.h>
+i<net/if.h>
+i<net/ethernet.h>
+i<sys/param.h>
+i"apple80211_var.h"
+
+N/Users/pvaibhav/Code/VoodooWireless/build/Release/VoodooWireless.framework/Headers/apple80211_var.h
+c000000004B9A634100000000000050E3
+t1268409153
+s20707
+i<sys/types.h>
+i<net/ethernet.h>
+i<sys/param.h>
+
+N/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+t1268500798
+s102
+
+N/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/Info.plist
+t1268500797
+s3756
+
+N/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+t1268500798
+s235112
+
+N/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/Resources/English.lproj/InfoPlist.strings
+t1268500797
+s92
+
+NInfo.plist
+c000000004BBC847D0000000000000EDF
+t1270645885
+s3807
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292342412#292342412#0(0"0(0#1#0"2506575904#0"0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.o /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s292342412.674286
+e292342415.677883
+r1
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.o
+x/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h:17,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h:28,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:25,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:
+o/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h:178: warning: '__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'
+oIn file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:26,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:
+o/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h:551: warning: '__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::allocateResources(IOService*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:100: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:239: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:259: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::startScan(const org_voodoo_wireless::ScanParameters*, const org_voodoo_wireless::IEEE::ChannelList*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:544: warning: format '%s' expects type 'char*', but argument 2 has type 'const void*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:605: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:605: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual void VoodooIntel3945::getHardwareInfo(org_voodoo_wireless::HardwareInfo*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:825: warning: format '%d' expects type 'int', but argument 6 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:832: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::uploadMicrocode(const uint8_t*, size_t)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1208: warning: format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::sendManagementFrame(const uint8_t*, size_t)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1532: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1535: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1542: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::sendAssocRequest()':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1594: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::postAssocProcedure(int)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1648: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h: At global scope:
+o/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h:20: warning: 'org_voodoo_wireless_debug' defined but not used
+lSLF07#2@64"Compile /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342412#292342415#0(4790"In file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h:17,                 from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h:28,                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:25,                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h:178: warning: '__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:26,                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h:551: warning: '__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::allocateResources(IOService*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:100: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:239: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:259: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::startScan(const org_voodoo_wireless::ScanParameters*, const org_voodoo_wireless::IEEE::ChannelList*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:544: warning: format '%s' expects type 'char*', but argument 2 has type 'const void*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:605: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:605: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual void VoodooIntel3945::getHardwareInfo(org_voodoo_wireless::HardwareInfo*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:825: warning: format '%d' expects type 'int', but argument 6 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:832: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::uploadMicrocode(const uint8_t*, size_t)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1208: warning: format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::sendManagementFrame(const uint8_t*, size_t)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1532: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1535: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1542: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::sendAssocRequest()':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1594: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::postAssocProcedure(int)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1648: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h: At global scope:/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h:20: warning: 'org_voodoo_wireless_debug' defined but not used20(22@108"'__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'292342413#461#249#5(7@78"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342413#4294967295#0#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#10#0#10#0#0"0(7@76"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h292342413#4294967295#0#0(6@54"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h290184572#25#0#25#0#0"0(7@146"In file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h292342413#4294967295#0#0(6@124"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h290101953#28#0#28#0#0"0(7@141"In file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h292342413#4294967295#0#0(6@119"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h290101953#17#0#17#0#0"0(13@237"'__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>' in /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h292342413#4294967295#0#0(6@125"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290101953#178#0#178#0#0"0(6@125"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290101953#178#0#178#0#0"0(22@87"'__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'292342413#874#151#3(7@78"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342413#4294967295#0#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#10#0#10#0#0"0(7@76"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h292342413#4294967295#0#0(6@54"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h290184572#26#0#26#0#0"0(13@139"'__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]' in /Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h292342413#4294967295#0#0(6@48"/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h289931999#551#0#551#0#0"0(6@48"/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h289931999#551#0#551#0#0"0(22@81"Format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'292342414#1169#153#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#100#0#100#0#56"format '*' expects type '*', but argument * has type '*'0(22@79"Format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'292342414#1322#151#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#239#0#239#0#56"format '*' expects type '*', but argument * has type '*'0(22@78"Format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'292342414#1473#150#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#259#0#259#0#56"format '*' expects type '*', but argument * has type '*'0(22@71"Format '%s' expects type 'char*', but argument 2 has type 'const void*'292342414#1838#143#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#544#0#544#0#56"format '*' expects type '*', but argument * has type '*'0(22@84"Format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'292342414#1981#156#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#605#0#605#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'292342414#2137#147#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#605#0#605#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'292342414#2284#147#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#625#0#625#0#56"format '*' expects type '*', but argument * has type '*'0(22@80"Format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'292342414#2431#152#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#625#0#625#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 6 has type 'size_t'292342414#2745#136#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#825#0#825#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'292342414#2881#145#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#832#0#832#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'292342414#3172#146#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#1208#0#1208#0#56"format '*' expects type '*', but argument * has type '*'0(22@84"Format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'292342414#3468#157#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#1532#0#1532#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'292342414#3625#148#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#1535#0#1535#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'292342414#3773#146#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#1542#0#1542#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'292342414#4040#146#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#1594#0#1594#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'292342414#4312#148#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp292342392#1648#0#1648#0#56"format '*' expects type '*', but argument * has type '*'0(23@16"At global scope:292342415#4460#143#0(6@124"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h290101953#0#0#0#0#0"0(22@48"'org_voodoo_wireless_debug' defined but not used292342415#4603#187#0(6@124"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h290101953#20#0#20#0#24"'*' defined but not used0(0#0#56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp2506575904#1892"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -nostdinc -fno-builtin -Wno-trigraphs -fno-exceptions -fno-rtti -fcheck-new -fasm-blocks -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -fapple-kext -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/i386 -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -c /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.o0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.o /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s290183489.484819
+e290183492.679938
+r1
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.o
+x/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h:17,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h:28,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:25,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:
+o/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h:178: warning: '__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'
+oIn file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:26,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:
+o/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h:551: warning: '__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::allocateResources(IOService*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:100: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:239: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:259: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::startScan(const org_voodoo_wireless::ScanParameters*, const org_voodoo_wireless::IEEE::ChannelList*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:544: warning: format '%s' expects type 'char*', but argument 2 has type 'const void*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:605: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:605: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual void VoodooIntel3945::getHardwareInfo(org_voodoo_wireless::HardwareInfo*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:825: warning: format '%d' expects type 'int', but argument 6 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:832: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::uploadMicrocode(const uint8_t*, size_t)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1204: warning: format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::sendManagementFrame(const uint8_t*, size_t)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1528: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1531: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1538: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::postAssocProcedure(int)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1623: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'
+lSLF07#2@64"Compile /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290183489#290183492#0(4193"In file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h:17,                 from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h:28,                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:25,                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h:178: warning: '__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:26,                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h:551: warning: '__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::allocateResources(IOService*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:100: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:239: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:259: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::startScan(const org_voodoo_wireless::ScanParameters*, const org_voodoo_wireless::IEEE::ChannelList*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:544: warning: format '%s' expects type 'char*', but argument 2 has type 'const void*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:605: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:605: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual void VoodooIntel3945::getHardwareInfo(org_voodoo_wireless::HardwareInfo*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:825: warning: format '%d' expects type 'int', but argument 6 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:832: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::uploadMicrocode(const uint8_t*, size_t)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1204: warning: format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::sendManagementFrame(const uint8_t*, size_t)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1528: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1531: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1538: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::postAssocProcedure(int)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1623: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'17(22@108"'__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'290183490#461#249#5(7@78"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290183490#4294967295#0#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#10#0#10#0#0"0(7@76"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h290183490#4294967295#0#0(6@54"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h290182743#25#0#25#0#0"0(7@146"In file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h290183490#4294967295#0#0(6@124"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h290101953#28#0#28#0#0"0(7@141"In file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h290183490#4294967295#0#0(6@119"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h290101953#17#0#17#0#0"0(13@237"'__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>' in /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290183490#4294967295#0#0(6@125"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290101953#178#0#178#0#0"0(6@125"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290101953#178#0#178#0#0"0(22@87"'__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'290183490#874#151#3(7@78"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290183490#4294967295#0#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#10#0#10#0#0"0(7@76"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h290183490#4294967295#0#0(6@54"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h290182743#26#0#26#0#0"0(13@139"'__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]' in /Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h290183490#4294967295#0#0(6@48"/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h289931999#551#0#551#0#0"0(6@48"/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h289931999#551#0#551#0#0"0(22@81"Format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'290183491#1169#153#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#100#0#100#0#56"format '*' expects type '*', but argument * has type '*'0(22@79"Format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'290183491#1322#151#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#239#0#239#0#56"format '*' expects type '*', but argument * has type '*'0(22@78"Format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'290183491#1473#150#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#259#0#259#0#56"format '*' expects type '*', but argument * has type '*'0(22@71"Format '%s' expects type 'char*', but argument 2 has type 'const void*'290183491#1838#143#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#544#0#544#0#56"format '*' expects type '*', but argument * has type '*'0(22@84"Format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'290183491#1981#156#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#605#0#605#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'290183491#2137#147#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#605#0#605#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'290183491#2284#147#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#625#0#625#0#56"format '*' expects type '*', but argument * has type '*'0(22@80"Format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'290183491#2431#152#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#625#0#625#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 6 has type 'size_t'290183491#2745#136#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#825#0#825#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'290183491#2881#145#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#832#0#832#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'290183491#3172#146#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#1204#0#1204#0#56"format '*' expects type '*', but argument * has type '*'0(22@84"Format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'290183491#3468#157#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#1528#0#1528#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'290183491#3625#148#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#1531#0#1531#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'290183491#3773#146#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#1538#0#1538#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'290183491#4045#148#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290103206#1623#0#1623#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp2476058736#1938"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -nostdinc -fno-builtin -Wno-trigraphs -fno-exceptions -fno-rtti -fcheck-new -fasm-blocks -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -fapple-kext -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/i386 -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -isysroot /Developer/SDKs/MacOSX10.6.sdk -c /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.o0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c normal i386 c com.apple.compilers.gcc.4_2
+s292342412.812626
+e292342413.014420
+r1
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o
+x/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c292342412#292342413#0(0"0(0#0#132"/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c2506575904#1929"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -nostdinc -std=c99 -fno-builtin -Wno-trigraphs -fasm-blocks -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/i386 -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -c /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s290183489.816391
+e290183490.122920
+r1
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o
+x/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: argument unused during compilation: '-force_cpusubtype_ALL'
+lSLF07#2@140"Compile /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c290183489#290183490#0(76"clang: warning: argument unused during compilation: '-force_cpusubtype_ALL'0(0#0#132"/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c2476058736#1965"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -nostdinc -std=c99 -fno-builtin -Wno-trigraphs -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/i386 -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -c /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c normal i386 c com.apple.compilers.gcc.4_2
+s290183464.333869
+e290183464.429957
+r0
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o
+x/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'namespace'
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:62: error: expected declaration specifiers or '...' before 'IEEE'
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:62: error: expected declaration specifiers or '...' before 'IEEE'
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c: In function 'ieee80211_amrr_choose':
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69: error: 'rateSet' undeclared (first use in this function)
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69: error: (Each undeclared identifier is reported only once
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69: error: for each function it appears in.)
+lSLF07#2@61"Compile /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183464#290183464#0(874"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23: error: expected '=', ',', ';', 'asm' or '__attribute__' before 'namespace'/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:62: error: expected declaration specifiers or '...' before 'IEEE'/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:62: error: expected declaration specifiers or '...' before 'IEEE'/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c: In function 'ieee80211_amrr_choose':/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69: error: 'rateSet' undeclared (first use in this function)/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69: error: (Each undeclared identifier is reported only once/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69: error: for each function it appears in.)4(4@67"Expected '=', ',', ';', 'asm' or '__attribute__' before 'namespace'290183464#80#133#2(7@75"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183464#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#24#0#24#0#0"0(13@124"Expected '=', ',', ';', 'asm' or '__attribute__' before 'namespace' in /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183464#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#23#0#23#0#0"0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#23#0#23#0#19"expected * before *0(4@54"Expected declaration specifiers or '...' before 'IEEE'290183464#213#120#2(7@75"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183464#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#24#0#24#0#0"0(13@111"Expected declaration specifiers or '...' before 'IEEE' in /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183464#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#62#0#62#0#0"0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#62#0#62#0#19"expected * before *0(4@54"Expected declaration specifiers or '...' before 'IEEE'290183464#333#120#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#62#0#62#0#19"expected * before *0(4@49"'rateSet' undeclared (first use in this function)290183464#545#115#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#69#0#69#0#43"'*' undeclared (first use in this function)0(0#0#53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c2476058736#1844"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -nostdinc -std=c99 -fno-builtin -Wno-trigraphs -fasm-blocks -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/i386 -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -c /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o1#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s290183489.488294
+e290183489.816153
+r0
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o
+x/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: warning: argument unused during compilation: '-force_cpusubtype_ALL'
+oIn file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23:1: error: unknown type name 'using'
+o using namespace org_voodoo_wireless;
+o ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23:17: error: invalid token after top level declarator
+o using namespace org_voodoo_wireless;
+o                 ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:62:2: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+o  IEEE::RateSet* rateSet);
+o  ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:62:6: error: expected ')'
+o  IEEE::RateSet* rateSet);
+o      ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:59:1: note: to match this '('
+o (struct ieee80211_amrr *amrr,
+o ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:62:2: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]
+o  IEEE::RateSet* rateSet)
+o  ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:62:6: error: expected ')'
+o  IEEE::RateSet* rateSet)
+o      ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:59:1: note: to match this '('
+o (struct ieee80211_amrr *amrr,
+o ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69:8: error: use of undeclared identifier 'rateSet'
+o                     !is_max_rate(rateIndex, rateSet)) {
+o                      ^
+o/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69:31: note: instantiated from:
+o                     !is_max_rate(rateIndex, rateSet)) {
+o                                             ^
+o9 diagnostics generated.
+lSLF07#2@61"Compile /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183489#290183489#0(1615"clang: warning: argument unused during compilation: '-force_cpusubtype_ALL'In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23:1: error: unknown type name 'using' using namespace org_voodoo_wireless; ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23:17: error: invalid token after top level declarator using namespace org_voodoo_wireless;                 ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:62:2: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]  IEEE::RateSet* rateSet);  ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:62:6: error: expected ')'  IEEE::RateSet* rateSet);      ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:59:1: note: to match this '(' (struct ieee80211_amrr *amrr, ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:62:2: warning: type specifier missing, defaults to 'int' [-Wimplicit-int]  IEEE::RateSet* rateSet)  ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:62:6: error: expected ')'  IEEE::RateSet* rateSet)      ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:59:1: note: to match this '(' (struct ieee80211_amrr *amrr, ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69:8: error: use of undeclared identifier 'rateSet'                     !is_max_rate(rateIndex, rateSet)) {                      ^/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:69:31: note: instantiated from:                     !is_max_rate(rateIndex, rateSet)) {                                             ^7(4@25"Unknown type name 'using'290183489#156#93#2(7@79"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:290183489#76#80#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#24#0#24#0#0"0(13@82"Unknown type name 'using' in /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#23#1#0#0#0"0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#23#1#0#0#19"unknown type name *0(4@40"Invalid token after top level declarator290183489#290#109#2(7@79"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#24#0#24#0#0"0(13@97"Invalid token after top level declarator in /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#23#17#0#0#0"0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#23#17#0#0#40"invalid token after top level declarator0(22@58"Type specifier missing, defaults to 'int' [-Wimplicit-int]290183489#456#128#2(7@79"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#24#0#24#0#0"0(13@115"Type specifier missing, defaults to 'int' [-Wimplicit-int] in /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#62#2#0#0#0"0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#62#2#0#0#0"0(4@12"Expected ')'290183489#615#80#3(7@79"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#24#0#24#0#0"0(13@69"Expected ')' in /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#62#6#0#0#0"0(13@17"To match this '('290183489#730#84#2(7@79"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c:24:290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#24#0#24#0#0"0(13@74"To match this '(' in /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183489#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#59#1#0#0#0"0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#59#1#0#0#17"to match this '*'0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183460#62#6#0#0#12"expected ')'0(22@58"Type specifier missing, defaults to 'int' [-Wimplicit-int]290183489#848#128#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#62#2#0#0#0"0(4@12"Expected ')'290183489#1006#80#1(13@17"To match this '('290183489#1120#84#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#59#1#0#0#17"to match this '*'0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#62#6#0#0#12"expected ')'0(4@38"Use of undeclared identifier 'rateSet'290183489#1238#106#1(13@72"Instantiated from: /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183489#1425#86#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#69#31#0#0#18"instantiated from:0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c290183346#69#8#0#0#32"use of undeclared identifier '*'0(0#0#53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c2476058736#1880"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -nostdinc -std=c99 -fno-builtin -Wno-trigraphs -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/i386 -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -c /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.c -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o1#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s292342412.676417
+e292342412.812431
+r1
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o
+x/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp:24:
+o/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h:178: warning: '__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'
+o/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h:20: warning: 'org_voodoo_wireless_debug' defined but not used
+lSLF07#2@63"Compile /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp292342412#292342412#0(598"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23,                 from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp:24:/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h:178: warning: '__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h:20: warning: 'org_voodoo_wireless_debug' defined but not used2(22@108"'__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'292342412#162#249#3(7@77"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp292342412#4294967295#0#0(6@55"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp290186882#24#0#24#0#0"0(7@75"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h292342412#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290184505#23#0#23#0#0"0(13@237"'__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>' in /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h292342412#4294967295#0#0(6@125"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290101953#178#0#178#0#0"0(6@125"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290101953#178#0#178#0#0"0(22@48"'org_voodoo_wireless_debug' defined but not used292342412#411#187#0(6@124"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h290101953#20#0#20#0#24"'*' defined but not used0(0#0#55"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp2506575904#1890"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -nostdinc -fno-builtin -Wno-trigraphs -fno-exceptions -fno-rtti -fcheck-new -fasm-blocks -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -fapple-kext -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/i386 -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -c /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s290183624.861078
+e290183624.865085
+r1
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o
+x/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp290183624#290183624#0(598"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h:23,                 from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp:24:/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h:178: warning: '__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h:20: warning: 'org_voodoo_wireless_debug' defined but not used2(22@108"'__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'290183624#162#249#3(7@77"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp290183624#4294967295#0#0(6@55"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp290183623#24#0#24#0#0"0(7@75"In file included from /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183624#4294967295#0#0(6@53"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.h290183609#23#0#23#0#0"0(13@237"'__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>' in /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290183624#4294967295#0#0(6@125"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290101953#178#0#178#0#0"0(6@125"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h290101953#178#0#178#0#0"0(22@48"'org_voodoo_wireless_debug' defined but not used290183624#411#187#0(6@124"/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessFamily.h290101953#20#0#20#0#24"'*' defined but not used0(0#0#55"/Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp2476058736#1936"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -nostdinc -fno-builtin -Wno-trigraphs -fno-exceptions -fno-rtti -fcheck-new -fasm-blocks -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -fapple-kext -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/i386 -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -isysroot /Developer/SDKs/MacOSX10.6.sdk -c /Users/pvaibhav/Code/VoodooIntel3945/ieee80211_amrr.cpp -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/ieee80211_amrr.o0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945.o /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp normal ppc c++ com.apple.compilers.gcc.4_2
+s290101598.079433
+e290101602.547922
+r1
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945.o
+x/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp
+xnormal
+xppc
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:26,
+o                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:
+o/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h:551: warning: '__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::allocateResources(IOService*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:98: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:237: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:257: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::startScan(const org_voodoo_wireless::ScanParameters*, const org_voodoo_wireless::IEEE::ChannelList*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:540: warning: format '%s' expects type 'char*', but argument 2 has type 'const void*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:601: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:601: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:621: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:621: warning: format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual void VoodooIntel3945::getHardwareInfo(org_voodoo_wireless::HardwareInfo*)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:821: warning: format '%d' expects type 'int', but argument 6 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:828: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::uploadMicrocode(const uint8_t*, size_t)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1200: warning: format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::sendManagementFrame(const uint8_t*, size_t)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1524: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1527: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1534: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::postAssocProcedure(int)':
+o/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1619: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'
+lSLF07#2@64"Compile /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101598#290101602#0(3482"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:26,                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h:551: warning: '__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::allocateResources(IOService*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:98: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:237: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:257: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::startScan(const org_voodoo_wireless::ScanParameters*, const org_voodoo_wireless::IEEE::ChannelList*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:540: warning: format '%s' expects type 'char*', but argument 2 has type 'const void*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:601: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:601: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:621: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:621: warning: format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual void VoodooIntel3945::getHardwareInfo(org_voodoo_wireless::HardwareInfo*)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:821: warning: format '%d' expects type 'int', but argument 6 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:828: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::uploadMicrocode(const uint8_t*, size_t)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1200: warning: format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::sendManagementFrame(const uint8_t*, size_t)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1524: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1527: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1534: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::postAssocProcedure(int)':/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1619: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'16(22@87"'__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'290101599#164#151#3(7@78"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101599#4294967295#0#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#10#0#10#0#0"0(7@76"In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h290101599#4294967295#0#0(6@54"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h289942956#26#0#26#0#0"0(13@139"'__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]' in /Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h290101599#4294967295#0#0(6@48"/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h289931999#551#0#551#0#0"0(6@48"/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h289931999#551#0#551#0#0"0(22@81"Format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'290101599#459#152#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#98#0#98#0#56"format '*' expects type '*', but argument * has type '*'0(22@79"Format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'290101599#611#151#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#237#0#237#0#56"format '*' expects type '*', but argument * has type '*'0(22@78"Format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'290101599#762#150#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#257#0#257#0#56"format '*' expects type '*', but argument * has type '*'0(22@71"Format '%s' expects type 'char*', but argument 2 has type 'const void*'290101599#1127#143#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#540#0#540#0#56"format '*' expects type '*', but argument * has type '*'0(22@84"Format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'290101599#1270#156#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#601#0#601#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'290101599#1426#147#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#601#0#601#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'290101599#1573#147#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#621#0#621#0#56"format '*' expects type '*', but argument * has type '*'0(22@80"Format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'290101599#1720#152#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#621#0#621#0#56"format '*' expects type '*', but argument * has type '*'0(22@64"Format '%d' expects type 'int', but argument 6 has type 'size_t'290101599#2034#136#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#821#0#821#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'290101599#2170#145#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#828#0#828#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'290101599#2461#146#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#1200#0#1200#0#56"format '*' expects type '*', but argument * has type '*'0(22@84"Format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'290101599#2757#157#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#1524#0#1524#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%d' expects type 'int', but argument 2 has type 'long unsigned int'290101599#2914#148#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#1527#0#1527#0#56"format '*' expects type '*', but argument * has type '*'0(22@73"Format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'290101599#3062#146#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#1534#0#1534#0#56"format '*' expects type '*', but argument * has type '*'0(22@75"Format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'290101599#3334#148#0(6@56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp290101497#1619#0#1619#0#56"format '*' expects type '*', but argument * has type '*'0(0#0#56"/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp2476058736#1886"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch ppc -fmessage-length=0 -pipe -nostdinc -fno-builtin -Wno-trigraphs -fno-exceptions -fno-rtti -fcheck-new -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -fapple-kext -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/ppc -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -c /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945.o0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945_info.o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c normal ppc c com.apple.compilers.gcc.4_2
+s290101601.557038
+e290101601.903034
+r1
+xCompileC
+xbuild/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945_info.o
+x/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@140"Compile /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c290101601#290101601#0(0"0(0#0#132"/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c2476058736#1923"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -nostdinc -std=c99 -fno-builtin -Wno-trigraphs -force_cpusubtype_ALL -msoft-float -Os -fno-common -mkernel -finline -fno-keep-inline-functions -Wreturn-type -Wunused-variable -DKERNEL -DKERNEL_PRIVATE -DDRIVER_PRIVATE -DAPPLE -DNeXT -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-generated-files.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-own-target-headers.hmap -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-all-target-headers.hmap -iquote /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/VoodooIntel3945-project-headers.hmap -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -I/Users/pvaibhav/Code/VoodooIntel3945/build/Release/include -I/System/Library/Frameworks/Kernel.framework/PrivateHeaders -I/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Kernel.framework/Headers -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/ppc -I/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources -c /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945_info.o0#
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/x86_64/VoodooIntel3945.o /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/x86_64/VoodooIntel3945_info.o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/DerivedSources/VoodooIntel3945_info.c normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCopyStringsFile /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s292342412.373196
+e292342412.674084
+r1
+xCopyStringsFile
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings292342412#292342412#0(0"0(0#0#68"/Users/pvaibhav/Code/VoodooIntel3945/English.lproj/InfoPlist.strings2506575904#373"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s290193597.693097
+e290193597.977193
+r1
+xCopyStringsFile
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings290193597#290193597#0(0"0(0#0#68"/Users/pvaibhav/Code/VoodooIntel3945/English.lproj/InfoPlist.strings4641560#373"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/Resources/English.lproj0#
+
+CCreateUniversalBinary /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945 normal "i386 ppc"
+s290101602.790091
+e290101602.886083
+r1
+xCreateUniversalBinary
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+xnormal
+xi386 ppc
+lSLF07#2@105"CreateUniversalBinary build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945 normal "i386 ppc"290101602#290101602#0(0"0(0#0#45"/Users/pvaibhav/Code/VoodooIntel3945/i386 ppc2476058736#442"    cd /Users/pvaibhav/Code/VoodooIntel3945    /usr/bin/lipo -create /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945 /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945 -output /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel39450#
+
+CCreateUniversalBinary /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945 normal "x86_64 i386 ppc"
+r0
+
+CGenerateDSYMFile /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext.dSYM /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+s292342415.751880
+e292342415.854415
+r1
+xGenerateDSYMFile
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext.dSYM
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+lSLF07#2@122"GenerateDSYMFile build/Release/VoodooIntel3945.kext.dSYM build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945292342415#292342415#0(0"0(0#0#102"/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel39452506575904#259"    cd /Users/pvaibhav/Code/VoodooIntel3945    /Developer/usr/bin/dsymutil /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945 -o /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext.dSYM0#
+
+CGenerateDSYMFile /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext.dSYM /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+s290193598.053967
+e290193598.130218
+r1
+xGenerateDSYMFile
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext.dSYM
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+lSLF07#2@159"GenerateDSYMFile build/Release/VoodooIntel3945.kext.dSYM /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945290193598#290193598#0(0"0(0#0#102"/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel39452476058736#259"    cd /Users/pvaibhav/Code/VoodooIntel3945    /Developer/usr/bin/dsymutil /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945 -o /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext.dSYM0#
+
+CLd /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945 normal i386
+s292342415.678124
+e292342415.751719
+r1
+xLd
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+xnormal
+xi386
+lSLF07#2@107"Link /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945292342415#292342415#0(0"0(0#0#0"2506575904#901"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -filelist /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.LinkFileList -mmacosx-version-min=10.6 -lcpp_kext -Xlinker -kext -nostdlib -lkmodc++ /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o -lkmod -lcc_kext -o /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel39450#
+
+CLd /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945 normal i386
+s290101601.472390
+e290101601.556855
+r1
+xLd
+x/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945
+xnormal
+xi386
+lSLF07#2@135"Link /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945290101601#290101601#0(0"0(0#0#0"2476058736#929"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -filelist /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.LinkFileList -mmacosx-version-min=10.6 -lcpp_kext -Xlinker -kext -nostdlib -lkmodc++ /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o -lkmod -lcc_kext -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel39450#
+
+CLd /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945 normal ppc
+s290101602.548072
+e290101602.789897
+r1
+xLd
+x/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945
+xnormal
+xppc
+lSLF07#2@134"Link /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945290101602#290101602#0(0"0(0#0#0"2476058736#925"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -filelist /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945.LinkFileList -mmacosx-version-min=10.6 -lcpp_kext -Xlinker -kext -nostdlib -lkmodc++ /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel3945_info.o -lkmod -lcc_kext -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/ppc/VoodooIntel39450#
+
+CLd /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/x86_64/VoodooIntel3945 normal x86_64
+r0
+
+CLd /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945 normal i386
+s290193597.977540
+e290193598.053739
+r1
+xLd
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+xnormal
+xi386
+lSLF07#2@107"Link /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945290193597#290193598#0(0"0(0#0#0"4641560#901"    cd /Users/pvaibhav/Code/VoodooIntel3945    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release -F/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Debug -filelist /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945.LinkFileList -mmacosx-version-min=10.6 -lcpp_kext -Xlinker -kext -nostdlib -lkmodc++ /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Objects-normal/i386/VoodooIntel3945_info.o -lkmod -lcc_kext -o /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel39450#
+
+CPreprocess /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist Info.plist
+s292342412.205358
+e292342412.364739
+r1
+xPreprocess
+x/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist
+xInfo.plist
+lSLF07#2@103"Preprocess build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist Info.plist292342412#292342412#0(0"0(0#0#47"/Users/pvaibhav/Code/VoodooIntel3945/Info.plist2506575904#283"    cd /Users/pvaibhav/Code/VoodooIntel3945    /Developer/usr/bin/gcc -E -P -x c -Wno-trigraphs Info.plist -F/Users/pvaibhav/Code/VoodooIntel3945/build/Release -o /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist0#
+
+CProcessInfoPlistFile /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Info.plist /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist
+s292342412.364985
+e292342412.372987
+r1
+xProcessInfoPlistFile
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Info.plist
+x/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist
+lSLF07#2@126"Process /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist292342412#292342412#0(0"0(0#0#118"/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist2506575904#325"    cd /Users/pvaibhav/Code/VoodooIntel3945    builtin-infoPlistUtility /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext/Contents/Info.plist0#
+
+CProcessInfoPlistFile /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/Info.plist /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist
+s290193597.583221
+e290193597.692948
+r1
+xProcessInfoPlistFile
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/Info.plist
+x/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist
+lSLF07#2@126"Process /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist290193597#290193597#0(0"0(0#0#118"/Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist4641560#325"    cd /Users/pvaibhav/Code/VoodooIntel3945    builtin-infoPlistUtility /Users/pvaibhav/Code/VoodooIntel3945/build/VoodooIntel3945.build/Release/VoodooIntel3945.build/Preprocessed-Info.plist -expandbuildsettings -platform macosx -o /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/Info.plist0#
+
+CSetMode u+w,go-w,a+rX /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+s290193598.194004
+e290193598.203732
+r1
+xSetMode
+xu+w,go-w,a+rX
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+lSLF07#2@93"SetMode u+w,go-w,a+rX /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext290193598#290193598#0(0"0(0#0#71"/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext2476058736#149"    cd /Users/pvaibhav/Code/VoodooIntel3945    /bin/chmod -RH u+w,go-w,a+rX /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext0#
+
+CSetOwnerAndGroup root:wheel /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+s290193598.178223
+e290193598.193832
+r1
+xSetOwnerAndGroup
+xroot:wheel
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+lSLF07#2@99"SetOwnerAndGroup root:wheel /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext290193598#290193598#0(0"0(0#0#71"/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext2476058736#151"    cd /Users/pvaibhav/Code/VoodooIntel3945    /usr/sbin/chown -RH root:wheel /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext0#
+
+CStrip /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+s290193598.135455
+e290193598.177912
+r1
+xStrip
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945
+lSLF07#2@108"Strip /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel3945290193598#290193598#0(0"0(0#0#102"/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel39452476058736#179"    cd /Users/pvaibhav/Code/VoodooIntel3945    /Developer/usr/bin/strip -S /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext/Contents/MacOS/VoodooIntel39450#
+
+CSymLink /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+s290193597.590608
+e290193597.673668
+r1
+xSymLink
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+lSLF07#2@79"Process /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext290193597#290193597#0(0"0(0#0#0"2476058736#204"    cd /Users/pvaibhav/Code/VoodooIntel3945    /bin/ln -sf /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext0#
+
+CTouch /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext
+s292342415.854573
+e292342415.859010
+r1
+xTouch
+x/Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext
+lSLF07#2@77"Touch /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext292342415#292342415#0(0"0(0#0#0"2506575904#138"    cd /Users/pvaibhav/Code/VoodooIntel3945    /usr/bin/touch -c /Users/pvaibhav/Code/VoodooIntel3945/build/Release/VoodooIntel3945.kext0#
+
+CTouch /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+s290193598.130410
+e290193598.135053
+r1
+xTouch
+x/tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext
+lSLF07#2@77"Touch /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext290193598#290193598#0(0"0(0#0#0"2476058736#138"    cd /Users/pvaibhav/Code/VoodooIntel3945    /usr/bin/touch -c /tmp/VoodooIntel3945.dst/System/Library/Extensions/VoodooIntel3945.kext0#
+

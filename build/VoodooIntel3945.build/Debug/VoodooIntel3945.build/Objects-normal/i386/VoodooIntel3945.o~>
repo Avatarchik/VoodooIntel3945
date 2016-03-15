@@ -1,0 +1,29 @@
+In file included from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211.h:17,
+                 from /Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooWirelessDevice.h:28,
+                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:25,
+                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:
+/Users/pvaibhav/Code/VoodooIntel3945/../VoodooWireless/build/Release/VoodooWireless.framework/Headers/VoodooIEEE80211_Types.h:178: warning: '__packed__' attribute ignored for field of type 'org_voodoo_wireless::IEEE::Capability::<anonymous struct>'
+In file included from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.h:26,
+                 from /Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:10:
+/Users/pvaibhav/Code/VoodooIntel3945/if_wpireg.h:551: warning: '__packed__' attribute ignored for field of type 'wpi_scan_hdr::<anonymous struct> [4]'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::allocateResources(IOService*)':
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:98: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'mach_vm_size_t'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:237: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_desc*'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:257: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'wpi_tx_cmd*'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual IOReturn VoodooIntel3945::startScan(const org_voodoo_wireless::ScanParameters*, const org_voodoo_wireless::IEEE::ChannelList*)':
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:540: warning: format '%s' expects type 'char*', but argument 2 has type 'const void*'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:601: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:601: warning: format '%x' expects type 'unsigned int', but argument 3 has type 'uint8_t*'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:621: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'uint8_t*'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:621: warning: format '%x' expects type 'unsigned int', but argument 5 has type 'wpi_scan_hdr*'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'virtual void VoodooIntel3945::getHardwareInfo(org_voodoo_wireless::HardwareInfo*)':
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:821: warning: format '%d' expects type 'int', but argument 6 has type 'size_t'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:828: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'size_t'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::uploadMicrocode(const uint8_t*, size_t)':
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1200: warning: format '%x' expects type 'unsigned int', but argument 2 has type 'size_t'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'IOReturn VoodooIntel3945::sendManagementFrame(const uint8_t*, size_t)':
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1524: warning: format '%u' expects type 'unsigned int', but argument 2 has type 'long unsigned int'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1527: warning: format '%d' expects type 'int', but argument 2 has type 'long unsigned int'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1534: warning: format '%u' expects type 'unsigned int', but argument 3 has type 'size_t'
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp: In member function 'void VoodooIntel3945::postAssocProcedure(int)':
+/Users/pvaibhav/Code/VoodooIntel3945/VoodooIntel3945.cpp:1619: warning: format '%u' expects type 'unsigned int', but argument 4 has type 'uint64_t'
